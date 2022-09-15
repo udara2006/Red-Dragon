@@ -11,8 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 ]
-🛑𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 :- 👇👇👇
+global.alivemsg = `[ᴿᴵʸᴬᴸ 𝙺𝙸𝙽𝙶 𝙳𝙰𝚁𝙺 🅳𝙴𝚅𝙸𝙻 ]🛑𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 :- 👇👇👇
  
 ☯𝐑𝐄𝐃 𝐃𝐑𝐀𝐆𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓☯
 
